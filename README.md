@@ -33,8 +33,7 @@
  Great for planning your day and staying ontop of tasks
 
 
-## ❔Questions<img width="1790" alt="Screen Shot 2022-07-28 at 3 47 59 PM" src="https://user-images.githubusercontent.com/100390818/181650861-ea4e496f-0eb1-477b-923e-d8437a09ee51.png">
-
+## ❔Questions
 - scottmooresrjc@gmail.com
 - https://github.com/ScottMooregithub
 
